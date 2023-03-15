@@ -1,0 +1,23 @@
+.new-style{
+  color:Red;
+}
+
+#border-blue{
+  border: 3px solid blue;
+}
+
+button{
+  background-color: pink;
+}
+
+p.second-style{
+  color: peru;
+}
+
+div>span{
+  color:aquamarine;
+}
+
+div p{
+  color:blueviolet;
+}
