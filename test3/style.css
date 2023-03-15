@@ -10,6 +10,8 @@
   width: 200px;
   padding: 50px;
   margin-top: 20px;
+  /* display:none; */
+  visibility:hidden;
 }
 
 .box-blue{
